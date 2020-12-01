@@ -45,7 +45,7 @@
     "organization": true
   },
   "dependencies": {
-    "semver": "^7.1.2"
+    "semver": "^7.3.4"
   },
   "jest": {
     "moduleFileExtensions": [
