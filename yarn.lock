@@ -4947,13 +4947,12 @@ falafel@^2.1.0:
     isarray "0.0.1"
     object-keys "^1.0.6"
 
-fast-check@^1.22.1:
-  version "1.22.1"
-  resolved "https://registry.yarnpkg.com/fast-check/-/fast-check-1.22.1.tgz#52b470642ed63ed2014fd20c3c8c4aa29fcc7647"
-  integrity sha512-9iDE5VbbG45SX8OkXVUO9DoyTSnepNH9Nmk5BlkzImei585csI54OCkXtbnS0QrOC6EQA3G6ww+nlSQdDnyUdg==
+fast-check@^2.13.0:
+  version "2.13.0"
+  resolved "https://registry.yarnpkg.com/fast-check/-/fast-check-2.13.0.tgz#92a50a6a39b58760d4b0b52b12f98f28a9f020f6"
+  integrity sha512-IOfzKm/SCA+jpUEgAfqAuxHYPmgtmpnnwljQmYPRGrqYczcTKApXKHza/SNxFxYkecWfZilYa0DJdBvqz1bcSw==
   dependencies:
-    pure-rand "^2.0.0"
-    tslib "^1.10.0"
+    pure-rand "^4.1.1"
 
 fast-deep-equal@^2.0.1:
   version "2.0.1"
@@ -9490,10 +9489,10 @@ punycode@^2.1.0, punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
 
-pure-rand@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/pure-rand/-/pure-rand-2.0.0.tgz#3324633545207907fe964c2f0ebf05d8e9a7f129"
-  integrity sha512-mk98aayyd00xbfHgE3uEmAUGzz3jCdm8Mkf5DUXUhc7egmOaGG2D7qhVlynGenNe9VaNJZvzO9hkc8myuTkDgw==
+pure-rand@^4.1.1:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/pure-rand/-/pure-rand-4.1.2.tgz#cbad2a3e3ea6df0a8d80d8ba204779b5679a5205"
+  integrity sha512-uLzZpQWfroIqyFWmX/pl0OL2JHJdoU3dbh0dvZ25fChHFJJi56J5oQZhW6QgbT2Llwh1upki84LnTwlZvsungA==
 
 purgecss@^1.4.0:
   version "1.4.2"
@@ -11251,7 +11250,7 @@ tsconfig-paths@^3.9.0:
     minimist "^1.2.0"
     strip-bom "^3.0.0"
 
-tslib@^1.10.0, tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
+tslib@^1.8.0, tslib@^1.8.1, tslib@^1.9.0:
   version "1.10.0"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-1.10.0.tgz#c3c19f95973fb0a62973fb09d90d961ee43e5c8a"
   integrity sha512-qOebF53frne81cf0S9B41ByenJ3/IuH8yJKngAX35CmiZySA0khhkovshKK+jGCaMnVomla7gVlIcc3EvKPbTQ==
